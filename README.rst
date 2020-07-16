@@ -60,11 +60,28 @@
 * 〜製（せい）例：和製、官製、布製、竹製、自家製
 * 〜上（じょう）例：ネット上、一身上、教育上、歴史上
 * 〜化（か）例：映画化、機械化、自由化、高齢化、マンネリ化
-* 〜家（か）例：評論家、空想家、努力家、小説家、落語家、柔道家、 `社会奉仕家 <https://forvo.com/word/%E7%A4%BE%E4%BC%9A%E5%A5%89%E4%BB%95%E5%AE%B6/>`_
-* 〜なりに　例： `私なりに <https://forvo.com/word/%E7%A7%81%E3%81%AA%E3%82%8A%E3%81%AB/#ja>`_, `不器用なりに <https://forvo.com/word/%E4%B8%8D%E5%99%A8%E7%94%A8%E3%81%AA%E3%82%8A%E3%81%AB/>`_, `彼女なりに <https://youtu.be/zwW9qvs2M50?t=872>`_, `大学生なりに <https://youtu.be/UtFqVUTDchg?t=370>`_, `いいなり <https://forvo.com/word/%E8%A8%80%E3%81%84%E3%81%AA%E3%82%8A/#ja>`_, `それなり <https://forvo.com/word/%E3%81%9D%E3%82%8C%E3%81%AA%E3%82%8A/#ja>`_
-* 〜帳（ちょう）例： `日記帳 <https://forvo.com/word/%E6%97%A5%E8%A8%98%E5%B8%B3/#ja>`_、 `閻魔帳 <https://forvo.com/word/%E9%96%BB%E9%AD%94%E5%B8%B3/#ja>`_、 写真帳、 出納帳
+* 〜家（か）例：評論家、空想家、努力家、小説家、落語家、柔道家、`社会奉仕家 <https://forvo.com/word/%E7%A4%BE%E4%BC%9A%E5%A5%89%E4%BB%95%E5%AE%B6/>`_、`合氣道家 <https://forvo.com/word/%E5%90%88%E6%B0%A3%E9%81%93%E5%AE%B6/>`_
+* 〜なりに　例： `私なりに <https://forvo.com/word/%E7%A7%81%E3%81%AA%E3%82%8A%E3%81%AB/#ja>`_、`不器用なりに <https://forvo.com/word/%E4%B8%8D%E5%99%A8%E7%94%A8%E3%81%AA%E3%82%8A%E3%81%AB/>`_、`彼女なりに <https://youtu.be/zwW9qvs2M50?t=872>`_、`大学生なりに <https://youtu.be/UtFqVUTDchg?t=370>`_、`いいなり <https://forvo.com/word/%E8%A8%80%E3%81%84%E3%81%AA%E3%82%8A/#ja>`_、`それなり <https://forvo.com/word/%E3%81%9D%E3%82%8C%E3%81%AA%E3%82%8A/#ja>`_
+* 〜帳（ちょう）例： `日記帳 <https://forvo.com/word/%E6%97%A5%E8%A8%98%E5%B8%B3/#ja>`_、`閻魔帳 <https://forvo.com/word/%E9%96%BB%E9%AD%94%E5%B8%B3/#ja>`_、写真帳、`出納帳 <https://forvo.com/word/%E5%87%BA%E7%B4%8D%E5%B8%B3/>`_、`現金出納帳 <https://forvo.com/word/%E7%8F%BE%E9%87%91%E5%87%BA%E7%B4%8D%E5%B8%B3/>`_
 * 〜場（じょう）例： `運動場 <https://forvo.com/word/%E9%81%8B%E5%8B%95%E5%A0%B4/#ja>`_
-* 〜品（ひん）例：輸出品、 `食料品 <https://forvo.com/word/%E9%A3%9F%E6%96%99%E5%93%81/#ja>`_
+* 〜品（ひん）例：`輸出品 <https://forvo.com/word/%E8%BC%B8%E5%87%BA%E5%93%81/>`_、 `食料品 <https://forvo.com/word/%E9%A3%9F%E6%96%99%E5%93%81/#ja>`_
+* 〜代（だい）
+* 〜課（か）
+* 〜色（いろ）例：黄色、緑色、顔色、赤色、青色
+* 〜屋（や）例：ラーメン屋、ケーキ屋、技術屋、頑張り屋、植木屋、気取り屋、喧し屋、寂しがり屋、分からず屋、皮肉屋
+
+  * ２泊は中高：肉屋[2]、八百屋[2]、店屋[2]、蕎麦屋[2]、`パン屋[2] <https://fr.forvo.com/word/%E3%83%91%E3%83%B3%E5%B1%8B/#ja>`_、事務屋[2]（[0]もあり）
+
+中高
+----
+
+* 〜\\員（\\いん）例：`銀行員 <https://forvo.com/word/%E9%8A%80%E8%A1%8C%E5%93%A1/#ja>`_、`公務員 <https://forvo.com/word/%E5%85%AC%E5%8B%99%E5%93%A1/#ja>`_、`会社員 <https://forvo.com/word/%E4%BC%9A%E7%A4%BE%E5%93%A1/#ja>`_、`事務員 <https://forvo.com/word/%E4%BA%8B%E5%8B%99%E5%93%A1/#ja>`_、`作業員 <https://forvo.com/word/%E4%BD%9C%E6%A5%AD%E5%93%A1/#ja>`_
+* 〜\\者（\\しゃ）例：`文学者 <https://forvo.com/word/%E6%96%87%E5%AD%A6%E8%80%85/#ja>`_、`夢遊病者 <https://forvo.com/word/%E5%A4%A2%E9%81%8A%E7%97%85%E8%80%85/#ja>`_、`賛成者 <https://forvo.com/word/%E8%B3%9B%E6%88%90%E8%80%85/>`_、加害者、被害者
+* 〜\\内（\\ない）例：年度内
+* 〜\\外（\\がい）例：外市外、問題外
+* 〜\\学（\\がく）例：物理学、言語学、心理学
+
+注意：アクセント核は撥音「ん」、長音（「い」、「う」など）、促音「っ」、無声化した音（「く」など）にはない。代わりに前の拍に移る。例：ぶんが\\くしゃ、むゆうびょ\\うしゃ、さんせ\\いしゃ、かが\\いしゃ
 
 意味による変化
 ==============
@@ -114,4 +131,5 @@ URLs
 * `「何～」「誰～」「どれ～」のアクセントについて <https://oshiete.goo.ne.jp/qa/8669792.html>`_
 * `「時」のよみかたとアクセント <https://khyogen.exblog.jp/3535826/>`_
 * `日本語アクセントの決定過程の構造 <http://www5a.biglobe.ne.jp/accent/accent2.htm>`_
+* `東京外国語大学言語モジュール 発音 <http://www.coelang.tufs.ac.jp/mt/ja/pmod/practical/>`_
 
