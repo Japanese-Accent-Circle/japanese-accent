@@ -9,8 +9,8 @@
 * か\\も
 * だ\\らけ
 * こ\\そ
-* く\\らい (!例外あり)
-* ぐ\\らい (例: `いくつぐらい <https://forvo.com/word/%E3%81%84%E3%81%8F%E3%81%A4%E3%81%90%E3%82%89%E3%81%84/>`_ [4]) (!例外あり)
+* く\\らい (※例外あり)
+* ぐ\\らい 例: `いくつぐらい <https://forvo.com/word/%E3%81%84%E3%81%8F%E3%81%A4%E3%81%90%E3%82%89%E3%81%84/>`_ [4] (※例外あり)
 
 ————
 
@@ -50,7 +50,7 @@
 接尾
 ====
 
-平板 [0]
+平板型
 --------
 
 * 〜的（てき）例：科学的、機械的、劇的、人工的、比較的
@@ -70,9 +70,13 @@
 * 〜色（いろ）例：黄色、緑色、顔色、赤色、青色
 * 〜屋（や）例：ラーメン屋、ケーキ屋、技術屋、頑張り屋、植木屋、気取り屋、喧し屋、寂しがり屋、分からず屋、皮肉屋
 
-  * ２泊は中高：肉屋[2]、八百屋[2]、店屋[2]、蕎麦屋[2]、`パン屋[2] <https://fr.forvo.com/word/%E3%83%91%E3%83%B3%E5%B1%8B/#ja>`_、事務屋[2]（[0]もあり）
+  * ２泊は中高：肉屋[2]、八百屋[2]、店屋[2]、蕎麦屋[2]、`パン屋[2] <https://fr.forvo.com/word/%E3%83%91%E3%83%B3%E5%B1%8B/#ja>`_、事務屋[2]（※事務屋は[0]も可）
 
-中高
+* 〜戦（せん）例：`模擬戦 <https://forvo.com/word/%E6%A8%A1%E6%93%AC%E6%88%A6/#ja>`_、`延長戦 <https://forvo.com/word/%E5%BB%B6%E9%95%B7%E6%88%A6/#ja>`_、`新人戦 <https://forvo.com/word/%E6%96%B0%E4%BA%BA%E6%88%A6/#ja>`_、騎乗戦、空中戦、持久戦　※例外：`決勝戦 <https://forvo.com/word/%E6%B1%BA%E5%8B%9D%E6%88%A6/#ja>`_ [3]
+* 〜性（せい）例：`柔軟性 <https://forvo.com/word/%E6%9F%94%E8%BB%9F%E6%80%A7/#ja>`_、`植物性 <https://forvo.com/word/%E6%A4%8D%E7%89%A9%E6%80%A7/#ja>`_、経済性、`アルカリ性 <https://forvo.com/word/%E3%82%A2%E3%83%AB%E3%82%AB%E3%83%AA%E6%80%A7/#ja>`_
+* 〜病（びょう）例：肝臓病、`伝染病 <https://forvo.com/word/%E4%BC%9D%E6%9F%93%E7%97%85/#ja>`_、`高山病 <https://forvo.com/word/%E9%AB%98%E5%B1%B1%E7%97%85/#ja>`_、`生活習慣病 <https://forvo.com/word/%E7%94%9F%E6%B4%BB%E7%BF%92%E6%85%A3%E7%97%85/#ja>`_、成人病、潜水病、糖尿病、水俣病
+
+中高型
 ----
 
 * 〜\\員（\\いん）例：`銀行員 <https://forvo.com/word/%E9%8A%80%E8%A1%8C%E5%93%A1/#ja>`_、`公務員 <https://forvo.com/word/%E5%85%AC%E5%8B%99%E5%93%A1/#ja>`_、`会社員 <https://forvo.com/word/%E4%BC%9A%E7%A4%BE%E5%93%A1/#ja>`_、`事務員 <https://forvo.com/word/%E4%BA%8B%E5%8B%99%E5%93%A1/#ja>`_、`作業員 <https://forvo.com/word/%E4%BD%9C%E6%A5%AD%E5%93%A1/#ja>`_
@@ -132,4 +136,4 @@ URLs
 * `「時」のよみかたとアクセント <https://khyogen.exblog.jp/3535826/>`_
 * `日本語アクセントの決定過程の構造 <http://www5a.biglobe.ne.jp/accent/accent2.htm>`_
 * `東京外国語大学言語モジュール 発音 <http://www.coelang.tufs.ac.jp/mt/ja/pmod/practical/>`_
-
+* `これが今の日本語だ！　オヤジのためのアクセント入門 <https://style.nikkei.com/article/DGXZZO05360760Y6A720C1000000/>`_
